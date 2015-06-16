@@ -2,5 +2,5 @@ require 'rubygems'
 require 'sinatra'
 
 get '/' do
-  "Hello version 0"
+  "Hello version 1"
 end
