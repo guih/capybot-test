@@ -8,3 +8,7 @@ end
 get "/ola" do
   "Olá versão 3"
 end
+
+get "/wat" do
+  "WAT!?"
+end
