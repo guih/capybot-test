@@ -2,7 +2,7 @@ require 'rubygems'
 require 'sinatra'
 
 get '/' do
-  "Hello version 3"
+  "Hello version 6"
 end
 
 get "/ola" do
