@@ -6,7 +6,7 @@ get '/' do
 end
 
 get "/ola" do
-  "Olá versão 3"
+  "Olá versão 6"
 end
 
 get "/wat" do
